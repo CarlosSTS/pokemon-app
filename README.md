@@ -16,10 +16,10 @@
 * [Explicação do aplicativo]()
 
 ## Páginas do app
-![Foto do App Carregando](https://github.com/CarlosSTS/skills-class/blob/master/assets/loading.jpg)
-![Foto do App dados](https://github.com/CarlosSTS/skills-class/blob/master/assets/home.jpg)
-![Foto do App detalhe](https://github.com/CarlosSTS/skills-class/blob/master/assets/detail.jpg)
-![Foto do App modal](https://github.com/CarlosSTS/skills-class/blob/master/assets/modal.jpg)
+![Foto do App Carregando](https://github.com/CarlosSTS/pokemon-app/blob/master/assets/loading.jpg)
+![Foto do App dados](https://github.com/CarlosSTS/pokemon-app/blob/master/assets/home.jpg)
+![Foto do App detalhe](https://github.com/CarlosSTS/pokemon-app/blob/master/assets/detail.jpg)
+![Foto do App modal](https://github.com/CarlosSTS/pokemon-app/blob/master/assets/modal.jpg)
 
 ## MOBILE
 RODANDO O PROJETO MOBILE
