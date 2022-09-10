@@ -1,0 +1,47 @@
+import {Platform} from 'react-native';
+
+export const colors = {
+  backgroundColor: Platform.OS === 'ios' ? '#EFEFF4' : '#F5F5F9',
+  blueLight: '#79BDEF',
+  blueDark: '#074885',
+  blue: '#3b9eff',
+  transparent: 'transparent',
+  rgbaDark: 'rgba(0,0,0,0.1)',
+  rgbaGrayDark: 'rgba(0,0,0,0.7)',
+  rgbaLight: 'rgba(255,255,255, 0.8)',
+  white: '#FFF',
+  error: '#F53030',
+  black: '#000',
+  placeholder: '#737380',
+  gray: '#D8D8D8',
+  primaryColorTable: '#F4F9FF',
+
+  //Pokémon colors
+  normal: '#A8A77A',
+  fire: '#EE8130',
+  water: '#6390F0',
+  electric: '#F7D02C',
+  grass: '#7AC74C',
+  ice: '#96D9D6',
+  fighting: '#C22E28',
+  poison: '#A33EA1',
+  ground: '#E2BF65',
+  flying: '#A98FF3',
+  psychic: '#F95587',
+  bug: '#A6B91A',
+  rock: '#B6A136',
+  ghost: '#735797',
+  dragon: '#6F35FC',
+  dark: '#705746',
+  steel: '#B7B7CE',
+  fairy: '#D685AD',
+  default: 'transparent',
+
+  //stats
+  speed: '#EE8130',
+  'special-defense': '#A33EA1',
+  'special-attack': '#F7D02C',
+  defense: '#6390F0',
+  attack: '#7AC74C',
+  hp: '#C22E28',
+};
