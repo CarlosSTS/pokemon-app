@@ -3,7 +3,7 @@
 ## Aplicação com foco no estudo de algumas bibliotecas usando como base a pokeapi. 
 
 ### Principais funcionalidades: 
-> 1. Uma tela principal para adicionar/deletar seu pokémons.
+> 1. Uma tela principal para adicionar/deletar seus pokémons.
 > 2. Uma tela mais detalhada exibindo com maiores delalhes os pokémons cadastrados.
 
 ### Adicionais:
@@ -13,7 +13,7 @@
 
 
 ## Explicação do aplicativo no LinkedIn
-* [Explicação do aplicativo]()
+* [Explicação do aplicativo](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_js-reactnative-reactjs-activity-6974778250401071104-GF8L?utm_source=share&utm_medium=member_android)
 
 ## Páginas do app
 ![Foto do App Carregando](https://github.com/CarlosSTS/pokemon-app/blob/master/assets/loading.jpg)
