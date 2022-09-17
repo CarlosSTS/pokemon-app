@@ -1,4 +1,4 @@
-# Pokwmon-app 
+# Pokemon-app 
 
 ## Aplicação com foco no estudo de algumas bibliotecas usando como base a pokeapi. 
 
