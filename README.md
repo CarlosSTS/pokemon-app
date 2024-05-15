@@ -21,15 +21,15 @@
 
 <table>
   <tr>
-<td><img src="https://github.com/CarlosSTS/pokemon-app/blob/master/assets/loading.png" alt="Foto do App carregando" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/pokemon-app/blob/master/assets/home.png" alt="Foto do App dados" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fpokemon-app%2Floading.png?alt=media&token=7419e62a-b7ac-4d33-a7c5-c4d9b68a4192" alt="Foto do App carregando" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fpokemon-app%2Fhome.png?alt=media&token=9c8803eb-b9cc-4e34-b3b7-c4f558260224" alt="Foto do App dados" width="360" /></td>
 </tr>
 </table>
 
 <table>
   <tr>
-<td><img src="https://github.com/CarlosSTS/pokemon-app/blob/master/assets/detail.png" alt="Foto do App detalhe" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/pokemon-app/blob/master/assets/modal.png" alt="Foto do App modal" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fpokemon-app%2Fdetail.png?alt=media&token=21a68c5f-c9ba-4b8d-850f-949652ad27bc" alt="Foto do App detalhe" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fpokemon-app%2Fmodal.png?alt=media&token=740981e7-4b2c-4d2e-947a-17c4713e319e" alt="Foto do App modal" width="360" /></td>
 </tr>
 </table>
 
